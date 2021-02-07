@@ -1,4 +1,4 @@
-# mobile-framework
+# android-mobile-framework
 
 Before running, please make sure that Appium is running on your machine and the correct appium server url is given in the commonConfig.properties file present in src/test/resources folder.
 
